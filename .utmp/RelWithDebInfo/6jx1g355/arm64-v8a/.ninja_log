@@ -1,0 +1,10 @@
+# ninja log v5
+1186	4909	7923600591658659	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e56dde2dc9133dd
+1216	4959	7923600592030958	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4cfef04b9edcbf3c
+1107	4980	7923600592723894	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d392d6145040d664
+1261	4989	7923600592644133	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	87a49e6d82ba20d3
+1125	5067	7923600593535028	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	67d53d4684c3f237
+1238	5437	7923600597492878	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7139d34f52f14e13
+1164	5575	7923600598827811	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	abae1eda5eb35721
+1	5701	7923600600129836	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d9d54a94ad1b304a
+5702	7663	7923600619807924	C:/Users/boris/OneDrive/Dokumenty/GitHub/MurderMistery#/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6jx1g355/obj/arm64-v8a/libgame.so	bae6fd4ae567a9b1
